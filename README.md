@@ -1,6 +1,6 @@
 # UEHToR
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/skull-king/UEHToR)
 
 ## Optionally sync downloaded file to your cloud drive with Rclone
 
